@@ -1,6 +1,6 @@
 # Printing book 1
 
-![alt tag](http://www.peppercarrot.com/extras/logos/Peppercarrot-logo_alpha_512.png)
+![alt tag](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
 
 This repository was created to ease collaborative work on the desktop-publishing of the open-source first book of [Pepper&Carrot](http://wwww.peppercarrot.com) comic.
 
