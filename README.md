@@ -1,4 +1,4 @@
-# Printing book 1
+# Printing book 1 ( work in progress )
 
 ![alt tag](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
 
