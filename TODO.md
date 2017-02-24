@@ -6,13 +6,7 @@
 
 ## 01_cover.sla
 
-Cover of the book. Needs to be appealing and different from the already published ones. 
-
-Right now I'm not really happy with the full image for the cover. 
-
-I would prefer a frame and title a bit graphically richer. Something looking like a vintage[1](https://s-media-cache-ak0.pinimg.com/736x/bf/8c/ce/bf8cce65393ce10574397412dcb33995.jpg) USComic/Manga.
-
-This publishing needs to feels the 'collector' one.
+Cover of the book. Needs to be appealing and different from the already published ones. Right now I'm not really happy with the full image for the cover. I would prefer a frame and title a bit graphically richer. Something looking like a vintage[1](https://s-media-cache-ak0.pinimg.com/736x/bf/8c/ce/bf8cce65393ce10574397412dcb33995.jpg) USComic/Manga. This publishing needs to feels like a  'collector' one.
 
 - [ ] artwork: Remix a bit the artwork making it "special".
 - [ ] gfx: Better publisher logo/font; need contact with Krita Foundation.
