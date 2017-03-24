@@ -41,6 +41,9 @@ Fonts are in the subfolder ```fonts/```:
 
 ## License:
 
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Based on the webcomic [Pepper&Carrot](https://www.peppercarrot.com) by David Revoy, 
+licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Based on the universe of [Hereva](https://www.peppercarrot.com/static8/wiki) created by David Revoy with contributions by Craig Maloney. Corrections by Willem Sonke, Moini, Hali, CGand and Alex Gryson.
 
 Authors of all modifications, corrections or contributions to this project accepts to release their work under the license: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
