@@ -2,7 +2,7 @@
 
 ![alt tag](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
 
-This repository was created to host the desktop-publishing source of the open-source first book of [Pepper&Carrot](http://wwww.peppercarrot.com) comic.
+This repository was created to host the desktop-publishing source of the open-source first book of [Pepper&Carrot](http://www.peppercarrot.com) comic.
 
 ## Changelog :
 
