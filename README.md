@@ -19,8 +19,8 @@ This repository was created to host the desktop-publishing source of the open-so
 
 You'll need :
 * the official Pepper&Carrot font pack [https://github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts)
-* Scribus 1.5.2 or better _(I'm using scribus-1.5.2-linux-x86_64.AppImage)_.
-* Krita 3.0 or better _(I'm using last stable appimage)_.
+* Scribus 1.5.3 or better _(I'm using scribus-1.5.3-linux-x86_64.AppImage)_.
+* Krita 3.x or better _(I'm using last stable appimage)_.
 
 
 The repository don't contains the comic page themself to keep the repository lightweight.
