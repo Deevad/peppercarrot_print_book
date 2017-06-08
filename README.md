@@ -6,38 +6,23 @@ This repository was created to host the desktop-publishing source of the open-so
 
 ## Changelog :
 
-* 2017-03-23: better cover, add fonts. [screenshot](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
-* 2016-09-05: initial squeletton. [screenshot](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
-
-## Description
-
-* At root, only Scribus files and this README.
-* ```img``` contains original graphics made for the book. Krita files, or PNG files.
-* ```pages``` folder contains the comic page images.
+* **2017-06-08**: Split gfx and text: more flexibility for cleaning pages footer and adding headers.
+* **2017-03-23**: Better cover, add fonts. [screenshot](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
+* **2016-09-05**: Initial squeletton. [screenshot](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
 
 ## Install
 
 You'll need :
-* the official Pepper&Carrot font pack [https://github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts)
-* Scribus 1.5.3 or better _(I'm using scribus-1.5.3-linux-x86_64.AppImage)_.
-* Krita 3.x or better _(I'm using last stable appimage)_.
+* **A font pack** : the official Pepper&Carrot open fonts [here](https://github.com/Deevad/peppercarrot_fonts).
+* **Scribus 1.5.4** : to edit the ```*.sla``` files. On 'buntu 16.04, [this PPA](https://launchpad.net/~scribus/+archive/ubuntu/ppa).
+* **Krita 3.x** : to edit the ```*.kra``` files. on 'buntu 16.04, recent Appimage works perfectly.
+* **The comic pages** : you can download them [here](http://www.peppercarrot.com/en/static6/sources&page=download), and then extract them into the ```pages``` folder. You can also execute ```getPages.bash``` to get them or update them automatically.
 
+## Usage
 
-The repository don't contains the comic page themself to keep the repository lightweight.
-You can download the English pack here [http://www.peppercarrot.com/en/static6/sources&page=download](http://www.peppercarrot.com/en/static6/sources&page=download) , and extract the content into the ```pages``` folder.
-
-## Font:
-
-Fonts are in the subfolder ```fonts/```:
-
-* [ComicSpice](https://github.com/Deevad/peppercarrot_fonts/tree/master/Web-ComicSpice) a derivative by David Revoy of [Comic Relief](https://fontlibrary.org/en/font/comic-relief) by Jeff Davis;  [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
-
-* [Neucha](https://www.google.com/fonts/specimen/Neucha) by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about); [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
-
-* [Lavi](http://www.dafont.com/lavi.font) by Ruben Holthuijsen aka Rholt, modification by David Revoy and Sölve Svartskogen; [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
-
-* [Yanone Kaffeesatz](https://www.yanone.de/fonts/kaffeesatz/) (thin/light/bold/regular) by Yanone ; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
-
+* ```/``` Contains Scribus ```*.sla``` files, scripts and this README.
+* ```/img``` Contains original graphics made for the book. Krita files, or PNG files.
+* ```/pages``` Contains the comic page sources (not delivered via git, see **Install**).
 
 ## License:
 
