@@ -8,6 +8,7 @@ This repository was created to host the desktop-publishing source of the open-so
 
 ## Changelog :
 
+* **2017-06-09**: Prefinal: All header, footer, gallery, colophon, frontpage, shrink from 80 pages to 68 pages, no need 'Inside' anymore.
 * **2017-06-08**: Split gfx and text: more flexibility for cleaning pages footer and adding headers.
 * **2017-03-23**: Better cover, add fonts. [screenshot](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
 * **2016-09-05**: Initial squeletton. [screenshot](http://www.peppercarrot.com/extras/forum/2016-09-05_desktop-publishing_scribus-step1.jpg)
