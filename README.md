@@ -1,4 +1,6 @@
-# Printing book 1 ( work in progress )
+# Printing book 1
+
+STATUS: needs printer info (ISBN?colorprofile) + proofread texts.
 
 ![alt tag](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
 
