@@ -861,10 +861,10 @@
             <StoryText>
                 <DefaultStyle ALIGN="3" FONTSIZE="10"/>
                 <para ALIGN="3"/>
-                <ITEXT FONT="Liberation Sans Italic" FONTSIZE="10" CH=" Do you know you are holding in your hand a little jewel? Of course, it does look similar as so many other classic comic book it might be hard to tell any difference,  but I can tell you this information : this book is like no other. It's a rare publishing of the webcomic Pepper&amp;Carrot made by open-source lovers to open-source lovers. It gather a collection of comic published between May 2014 and September 2015, the fruit of a collaboration between many major open-source project ( Krita, Inskcape, Scribus ), standards and technologies. It's not yet another industrial thing, no; this comic book is an achievement of a community as a whole. Not a single proprietary software was used to conceive this comic book from A to Z... Can you believe it?"/>
+                <ITEXT FONT="Liberation Sans Italic" FONTSIZE="10" CH=" Do you know you are holding in your hand a little jewel? Of course, it does look similar to so many other classic comic books it might be hard to tell any difference,  but I can tell you this information : this book is like no other. It's a rare publishing of the webcomic Pepper&amp;Carrot made by open-source lovers to open-source lovers. It gathers a collection of comics published between May 2014 and September 2015, the fruit of a collaboration between many major open-source projects ( Krita, Inskcape, Scribus ), standards and technologies. It's not yet another industrial thing, no; this comic book is an achievement of a community as a whole. Not a single proprietary software was used to conceive this comic book from A to Z... Can you believe it?"/>
                 <para ALIGN="3"/>
                 <para ALIGN="3"/>
-                <ITEXT FONT="Liberation Sans Italic" FONTSIZE="10" CH="Let me dedicate this book to all the one who contribued to Pepper&amp;Carrot."/>
+                <ITEXT FONT="Liberation Sans Italic" FONTSIZE="10" CH="Let me dedicate this book to all the ones who contributed to Pepper&amp;Carrot."/>
                 <para ALIGN="3"/>
                 <para ALIGN="3"/>
                 <ITEXT FONT="Liberation Sans Italic" FONTSIZE="10" CH="David Revoy"/>
