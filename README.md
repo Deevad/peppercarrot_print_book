@@ -8,6 +8,7 @@ This repository was created to host the desktop-publishing source of the open-so
 
 ## Changelog :
 
+* **2017-11-06**: Re-structure to allow translations in multiple languages.
 * **2017-06-09**: Prefinal: All header, footer, gallery, colophon, frontpage, shrink from 80 pages to 68 pages, no need 'Inside' anymore.
 * **2017-06-08**: Split gfx and text: more flexibility for cleaning pages footer and adding headers.
 * **2017-03-23**: Better cover, add fonts. [screenshot](http://www.peppercarrot.com/extras/forum/2017-03-23_screenshot_182109_net.jpg)
@@ -19,13 +20,18 @@ You'll need :
 * **A font pack** : the official Pepper&Carrot open fonts [here](https://github.com/Deevad/peppercarrot_fonts).
 * **Scribus 1.5.4** : to edit the ```*.sla``` files. On 'buntu 16.04, [this PPA](https://launchpad.net/~scribus/+archive/ubuntu/ppa).
 * **Krita 3.x** : to edit the ```*.kra``` files. on 'buntu 16.04, recent Appimage works perfectly.
-* **The comic pages** : you can download them [here](http://www.peppercarrot.com/en/static6/sources&page=download), and then extract them into the ```pages``` folder. You can also execute ```getPages.bash``` to get them or update them automatically.
+* **The comic pages** :
+	* You can download them [here](http://www.peppercarrot.com/en/static6/sources&page=download), and then extract them into the ```pages``` folder.
+	* You can also execute ```getPages.bash en``` (where *en* is the language you want) to get them or update them automatically.
+	* You can initialise a new translation by executing ```initLang.bash fr``` (where *fr* is the new language you want)
 
 ## Usage
 
-* ```/``` Contains Scribus ```*.sla``` files, scripts and this README.
+* ```/``` Contains scripts and this README.
 * ```/img``` Contains original graphics made for the book. Krita files, or PNG files.
-* ```/pages``` Contains the comic page sources (not delivered via git, see **Install**).
+* ```/lang/xx/``` Contains the different translations
+	* ```/``` Contains Scribus ```*.sla``` files
+	* ```/pages``` Contains the comic page sources (not delivered via git, see **Install**).
 
 ## License:
 
