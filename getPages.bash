@@ -18,11 +18,14 @@ Blue=$'\e[1;34m'
 
 # configuration
 lang="en"
+if [[ "$1" =~ ^[a-z]{2}$ ]]; then
+   lang="$1"
+fi
 urlpath="https://www.peppercarrot.com/downloader.php?page=download\&l=""$lang"
 file="peppercarrot-render-pack.zip"
 horodate=$(date +%Y-%m-%d_%Hh%M)
 tmppath="/tmp/$horodate-pagedownloader"
-workingpath="${PWD}"
+workingpath="${PWD}/lang/${lang}"
 
 if [ ! -d "$workingpath"/"pages" ]; then
    echo "${Red}=> Error : No directory -pages- found. Please execute the script in the sources directory. ${Off}"
