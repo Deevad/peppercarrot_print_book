@@ -1,3 +1,10 @@
+**IMPORTANT**  
+_Repository Archived:_ we continue here now: https://framagit.org/peppercarrot  
+We moved on November 2017 to this new platform. Details [here](https://www.peppercarrot.com/en/article429/mega-maintenance). The current repository will be removed in 2018
+
+---
+
+
 # Printing book 1
 
 STATUS: needs printer info (ISBN?colorprofile) + proofread texts.
