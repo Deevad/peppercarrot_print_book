@@ -49,7 +49,7 @@ fi
 
 echo ""
 
-if [ -f ""$workingpath"/pages/"$lang"_Pepper-and-Carrot_by-David-Revoy_E01P00.png" ]; then
+if [ -f "${workingpath}/pages/${lang}_Pepper-and-Carrot_by-David-Revoy_E01P00.png" ]; then
    echo "=> Test: ${Green}Success !${Off} All is done."
    echo ""
 else

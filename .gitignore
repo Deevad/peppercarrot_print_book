@@ -1,6 +1,6 @@
 # JPG files comic pages #
 #########################
-pages/*
+lang/**/pages/*
 !pages/comic-page-jpg-here.md
 
 # Compiled source #
